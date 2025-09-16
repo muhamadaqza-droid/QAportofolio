@@ -27,7 +27,7 @@ Tools & Skills
 
 ---
 
-Related Files
-1. Open the 'Test Execution & Test Case - Project GrowiaShop.xlsx' folder to see example test cases.  
-2. Check `defect-reports/` for bug reports format.  
-3. Review `test-summary/` for overall test planning.  
+Contact
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-chairil-aqza-ibrahim-450a5b352/  
+- **Email:** muhamad.aqza@gmail.com
+- **Phone/Whatsapp:** +6281322739771
