@@ -1,22 +1,25 @@
-QA Portfolio - Muhammad Chairil Aqza Ibrahim
+Software QA Portfolio - Muhammad Chairil Aqza Ibrahim
 
-Welcome to my QA Portfolio!  
+Welcome to my QA Portfolio!
+
 This repository showcases my work in Software Quality Assurance, including test cases, defect reports, test summaries.
 
 ---
 
 About Me
-- Manual QA Analyst  
+- Manual Software QA Analyst  
 - Skilled in writing test cases, defect reports, and analyzing requirements  
-- Experienced with functional testing, boundary value analysis, and exploratory testing  
+- Experienced with functional testing, non functional  testing and exploratory testing  
 
 ---
 
 Repository Content
-- **Test Cases** → Examples of structured test cases in English  
-- **Defect Reports** → Bug reports written with clear description & expected result  
-- **Test Summary** → Test plans and summaries for projects  
-
+- **Test Cases** → Examples of structured test cases of growia shop website in English  
+- **Defect Reports** → Bug reports for growia shop project written with clear description & expected result  
+- **Test Summary** → Summary for the projects
+- **Automation Test** → Example of test automation conducted when taking the course (selenium)
+- **Document** → Credential and info : Certificate of SQA and Final Project Score
+  
 ---
 
 Tools & Skills
